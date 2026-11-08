@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Quicknote</title>
+  <path d="M224 96h416l288 288v416a128 128 0 0 1-128 128H224A128 128 0 0 1 96 800V224A128 128 0 0 1 224 96Z" fill="#2367cf"/>
+  <path d="M640 96v208a80 80 0 0 0 80 80h208Z" fill="#a8ceff"/>
+  <path d="M288 480h448M288 608h448M288 736h288" fill="none" stroke="#fff" stroke-width="64" stroke-linecap="round"/>
+</svg>
